@@ -1,2 +1,1 @@
-# Proyecto27
-Juego de navidad
+# NC27
